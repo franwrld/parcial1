@@ -64,6 +64,8 @@
         Console.WriteLine("____________________________________________________")
         Console.ReadLine()
 
+        Console.WriteLine("Pulse ENTER para finalizar programa")
+        Console.ReadLine()
     End Sub
 
 End Module
