@@ -1,0 +1,11 @@
+C:\Users\RUIZ\source\repos\ParcialProgra\ParcialProgra\bin\Debug\ParcialProgra.exe.config
+C:\Users\RUIZ\source\repos\ParcialProgra\ParcialProgra\bin\Debug\ParcialProgra.exe
+C:\Users\RUIZ\source\repos\ParcialProgra\ParcialProgra\bin\Debug\ParcialProgra.pdb
+C:\Users\RUIZ\source\repos\ParcialProgra\ParcialProgra\bin\Debug\ParcialProgra.xml
+C:\Users\RUIZ\source\repos\ParcialProgra\ParcialProgra\obj\Debug\ParcialProgra.vbprojAssemblyReference.cache
+C:\Users\RUIZ\source\repos\ParcialProgra\ParcialProgra\obj\Debug\ParcialProgra.Resources.resources
+C:\Users\RUIZ\source\repos\ParcialProgra\ParcialProgra\obj\Debug\ParcialProgra.vbproj.GenerateResource.cache
+C:\Users\RUIZ\source\repos\ParcialProgra\ParcialProgra\obj\Debug\ParcialProgra.vbproj.CoreCompileInputs.cache
+C:\Users\RUIZ\source\repos\ParcialProgra\ParcialProgra\obj\Debug\ParcialProgra.exe
+C:\Users\RUIZ\source\repos\ParcialProgra\ParcialProgra\obj\Debug\ParcialProgra.xml
+C:\Users\RUIZ\source\repos\ParcialProgra\ParcialProgra\obj\Debug\ParcialProgra.pdb
